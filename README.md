@@ -1,2 +1,2 @@
 # cshank-martel_lab6
-Lab1 Repository
+Lab6 Repository
